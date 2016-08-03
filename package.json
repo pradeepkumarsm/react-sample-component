@@ -1,6 +1,6 @@
 {
   "name": "react-sample-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample react component",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,10 @@
   "bugs": {
     "url": "https://github.com/pradeepkumarsm/react-sample-component/issues"
   },
-  "files":["src","dist"],
+  "files": [
+    "src",
+    "dist"
+  ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
   "dependencies": {
     "react": "^15.3.0",
