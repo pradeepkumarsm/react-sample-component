@@ -15,9 +15,6 @@
   "bugs": {
     "url": "https://github.com/pradeepkumarsm/react-sample-component/issues"
   },
-  "files": [
-    "dist"
-  ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
   "dependencies": {
     "react": "^15.3.0",
