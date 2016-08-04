@@ -17,11 +17,11 @@
   },
   "files": [
     "dist",
-    "src",
-    "!node_modules"
+    "src"
   ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jquery": "^3.1.0"
   }
 }
