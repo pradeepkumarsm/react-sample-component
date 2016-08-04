@@ -17,7 +17,8 @@
   },
   "files": [
     "dist",
-    "src"
+    "src",
+    "!node_modules"
   ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
   "dependencies": {
