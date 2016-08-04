@@ -17,6 +17,7 @@
   },
   "files": [
     "./index.js",
+    "dist",
     "./node_modules"
   ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
