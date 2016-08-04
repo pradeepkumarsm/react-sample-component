@@ -16,7 +16,8 @@
     "url": "https://github.com/pradeepkumarsm/react-sample-component/issues"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
   "dependencies": {
