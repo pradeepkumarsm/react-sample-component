@@ -1,6 +1,6 @@
 {
   "name": "react-sample-component",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Sample react component",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,9 @@
   "bugs": {
     "url": "https://github.com/pradeepkumarsm/react-sample-component/issues"
   },
-  "files":["dist"],
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/pradeepkumarsm/react-sample-component#readme",
   "dependencies": {
     "jquery": "^3.1.0"
