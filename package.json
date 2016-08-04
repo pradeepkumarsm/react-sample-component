@@ -1,6 +1,6 @@
 {
   "name": "react-sample-component",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Sample react component",
   "main": "index.js",
   "scripts": {
