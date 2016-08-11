@@ -5,7 +5,7 @@ export default class sampleComponent extends Component{
     render(){
         return (
             <div>
-               New Component by pradeep {this.props && this.props.name}
+               New Component {this.props && this.props.name}
             </div>
         )
     }
