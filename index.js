@@ -6,7 +6,7 @@ class SampleComponent extends Component{
         return (
             <div>
                 <Src />
-                Sample Component By Pradeep
+                Sample Component By Pradeep- Feature branch
             </div>
         )
     }
