@@ -1,11 +1,15 @@
 import React,{Component} from 'react';
+import Src from './src';
 
-export default class SampleComponent extends Component{
+class SampleComponent extends Component{
     render(){
         return (
             <div>
-                Sample Component
+                <Src />
+                Sample Component By Pradeep
             </div>
         )
     }
 }
+
+export default SampleComponent;
