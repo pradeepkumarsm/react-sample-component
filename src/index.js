@@ -5,7 +5,7 @@ export default class sampleComponent extends Component{
     render(){
         return (
             <div>
-               New Component {this.props && this.props.name}
+               New Component on Master {this.props && this.props.name}
             </div>
         )
     }
