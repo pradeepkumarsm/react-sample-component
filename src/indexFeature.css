@@ -6,8 +6,11 @@
     color: #000;
 }
 
-.sliderCSS{
-    background: oldlace;
+.sliderCSS {
+            background: oldlace;
+        }
+.dropDownCss {
+    background: powderblue;
 }
 
 .masterCSS{
