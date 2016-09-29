@@ -1,1 +1,1 @@
-slider component
+slider component slider master changes
