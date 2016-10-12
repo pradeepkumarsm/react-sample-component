@@ -8,6 +8,7 @@ export default class sampleComponent extends Component{
                New Component on Master Feature Update{this.props && this.props.name}
 
                 master change
+                New master change
             </div>
         )
     }
