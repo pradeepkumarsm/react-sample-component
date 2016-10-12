@@ -9,6 +9,7 @@ export default class sampleComponent extends Component{
 
                 master change
                 New master change
+                master changes again
             </div>
         )
     }
