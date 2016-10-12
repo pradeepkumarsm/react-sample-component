@@ -20,6 +20,13 @@ export default class sampleComponent extends Component{
                 master changes 25 oct
                 master changes 26 oct
                 master changes 27 oct
+               <div>
+               	check
+               </div>
+                new slider changes
+
+                slider changes again
+
             </div>
         )
     }
