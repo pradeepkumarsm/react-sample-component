@@ -5,7 +5,7 @@ var CommonsChunkPlugin = require("webpack/lib/optimize/CommonsChunkPlugin");
 
 
 module.exports = {
-	devtool: 'cheap-module-source-map',
+	devtool: 'eval',
 	entry:
 	{
 		app:["./index.js"]
