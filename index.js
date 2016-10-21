@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
 import Src from './src';
+import ReactDOM from 'react-dom';
 
 class SampleComponent extends Component{
     render(){
@@ -12,4 +13,7 @@ class SampleComponent extends Component{
     }
 }
 
-export default SampleComponent;
+
+
+ReactDOM.render(<SampleComponent/>, document.getElementById("content"));
+
