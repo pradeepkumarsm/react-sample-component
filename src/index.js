@@ -16,6 +16,7 @@ export default class sampleComponent extends Component{
                 master changes 22 oct
 
                 master changes 23 oct
+                master changes 24 oct
             </div>
         )
     }
