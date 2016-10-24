@@ -41,6 +41,8 @@ export default class sampleComponent extends Component{
 
                 slider change 26 oct
 
+                slider change 27 oct
+
             </div>
         )
     }
