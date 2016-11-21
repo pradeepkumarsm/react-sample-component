@@ -26,6 +26,9 @@ export default class sampleComponent extends Component{
 
                 master 1234
 
+
+                master 2345
+
             </div>
         )
     }
