@@ -4,6 +4,7 @@ module.exports = {
         "es6": true
     },
     "extends": "airbnb",
+    "parser": "babel-eslint",
     "parserOptions": {
         "ecmaFeatures": {
             "experimentalObjectRestSpread": true,
@@ -16,6 +17,6 @@ module.exports = {
     ],
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-        "no-underscore-dangle":["error", { "allow": ["foo_", "_bar"] }]
+        "no-underscore-dangle": ["error", { "allow": ["foo_", "_bar"] }]
     }
 };
